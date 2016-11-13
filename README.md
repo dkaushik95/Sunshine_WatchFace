@@ -9,6 +9,6 @@ Android Wear is an exciting way to integrate your app more directly into usersâ€
 ##What Will I Learn?
 Through this project, you will:
 
--Understand the fundamentals of Android Wear.
--Design for multiple watch form factors.
--Communicate between a mobile device and a wearable device.
+- Understand the fundamentals of Android Wear.
+- Design for multiple watch form factors.
+- Communicate between a mobile device and a wearable device.
